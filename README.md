@@ -32,7 +32,7 @@ This project involves creating a custom gaming operating system based on Serenit
 ## Technologies Used
 
 *   SerenityOS
-*   RetroArch
+*   SameBoy
 *   GCC
 *   Make
 
